@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 # ============ TITLE ============
-st.title("Machine Learning Assignment 2")
+st.title("ML Pipeline Playground")
 st.markdown("#### **BITS Pilani - M.Tech DSE**")
 st.markdown("---")
 

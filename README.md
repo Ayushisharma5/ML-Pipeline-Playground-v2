@@ -1,4 +1,4 @@
-# 🎓 ML Assignment 2: Multi-Model Classification & Deployment
+# ML-Pipeline-Playground: Multi-Model Classification Pipeline with Streamlit Deployment
 
 ## a. Problem Statement
 Build an interactive web application that demonstrates 6 classification models on a single dataset with comprehensive evaluation metrics, deployed on Streamlit Community Cloud.
