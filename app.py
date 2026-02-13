@@ -16,7 +16,7 @@ from sklearn.metrics import (accuracy_score, roc_auc_score, precision_score,
 
 # ============ PAGE CONFIG ============
 st.set_page_config(
-    page_title="ML Assignment 2 - 6 Classifiers",
+    page_title="ML Pipeline Playground",
     page_icon="🤖",
     layout="wide"
 )

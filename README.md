@@ -12,14 +12,13 @@ Build an interactive web application that demonstrates 6 classification models o
 
 ## c. Models Used & Evaluation Metrics
 
-| ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
-|--------------|---------|-----|-----------|--------|----|-----|
-| Logistic Regression | 0.7521 | 0.8134 | 0.7342 | 0.7215 | 0.7278 | 0.4682 |
-| Decision Tree | 0.6845 | 0.6712 | 0.6541 | 0.6632 | 0.6586 | 0.3521 |
-| K-Nearest Neighbor | 0.7218 | 0.7645 | 0.7032 | 0.6987 | 0.7009 | 0.4235 |
-| Naive Bayes | 0.6942 | 0.7421 | 0.6815 | 0.7102 | 0.6956 | 0.3847 |
-| Random Forest | 0.7812 | 0.8423 | 0.7725 | 0.7634 | 0.7679 | 0.5341 |
-| XGBoost | 0.7935 | 0.8567 | 0.7842 | 0.7756 | 0.7799 | 0.5512 |
+              Model    Accuracy  AUC        Precision  Recall     F1      MCC
+Logistic Regression    0.8938    0.8804     0.6957     0.3721     0.4848  0.4580
+      Decision Tree    0.9000    0.8047     0.6170     0.6744     0.6444  0.5872
+ K-Nearest Neighbor    0.8938    0.8237     0.6667     0.4186     0.5143  0.4738
+        Naive Bayes    0.8656    0.8503     0.5000     0.7209     0.5905  0.5255
+      Random Forest    0.9437    0.9554     0.9310     0.6279     0.7500  0.7374
+            XGBoost    0.9406    0.9422     0.8750     0.6512     0.7467  0.7239
 
 ## d. Model Performance Observations
 
@@ -40,8 +39,8 @@ Confusion matrix visualization
 Classification report  
 
 ## f. Deployment
-🔗 **Live App:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)  
-📂 **GitHub:** [https://github.com/yourusername/ML_Assignment2](https://github.com/yourusername/ML_Assignment2)  
+**Live App:** https://ml-pipeline-playground-v2-uubjnabxjlynbqbjvhsb3j.streamlit.app/
+**GitHub:** https://github.com/Ayushisharma5/ML-Pipeline-Playground-v2
 
 ## g. BITS Virtual Lab Proof
 ![Execution Screenshot](bits_lab_execution.png)
